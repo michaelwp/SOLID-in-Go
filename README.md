@@ -1,2 +1,2 @@
 # SOLID-in-Go
-example of SOLID principle in Go language
+example of SOLID principle implementation in Go language
